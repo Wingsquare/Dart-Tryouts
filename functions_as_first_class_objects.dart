@@ -15,6 +15,7 @@ void main(List<String> args) {
   list.forEach(printElement2);
 
   // Passing a function body to another function
+  // Anonymous function or Lambda function or Closure
   list.forEach((element) => print(element));
   
 }
