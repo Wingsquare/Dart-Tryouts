@@ -8,7 +8,7 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "factory_constructor.dart"
+            "program": "getter_setter.dart"
         }
     ]
 }

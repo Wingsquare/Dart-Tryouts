@@ -20,3 +20,5 @@
 18. redirecting_constructor.dart
 19. constant_constructor.dart
 20. factory_constructor.dart
+21. operator_methods.dart
+22. getter_setter.dart
