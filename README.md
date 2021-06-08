@@ -11,3 +11,7 @@
 9. testing_functions_for_equality.dart
 10. function_return.dart
 11. operators.dart
+12. controlflow.dart
+13. exceptions.dart
+14. class.dart
+15. class_initializer_list.dart
