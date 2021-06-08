@@ -24,17 +24,20 @@ class B extends A {
   B.named2()
       : b1 = 101,
         b2 = 201,
-        super.named(a1: 301, a2: 302) {
-          print("B : Named Constructor : named2");
-        }
+        super.named(
+          a1: 301,
+          a2: 302,
+        ) {
+    print("B : Named Constructor : named2");
+  }
 }
 
 main(List<String> args) {
   // Default constructor of Subclass invokes the default constructor of parent class
-  //B();
+  B();
 
   // Named constructor of Subclass invokes the default constructor of parent class
-  //B.named();
+  B.named();
 
   // Named constructor of Subclass invokes the named constructor of parent class
   B.named2();

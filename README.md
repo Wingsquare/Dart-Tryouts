@@ -13,6 +13,10 @@
 11. operators.dart
 12. controlflow.dart
 13. exceptions.dart
-14. class.dart
-15. class_initializer_list.dart
-16. inheritance.dart
+14. class_member_access.dart
+15. class_named_constructor.dart
+16. class_initializer_list.dart
+17. constructors.dart
+18. redirecting_constructor.dart
+19. constant_constructor.dart
+20. factory_constructor.dart
