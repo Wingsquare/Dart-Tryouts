@@ -28,3 +28,7 @@
 26. no_such_method.dart
 27. extension.dart
 28. enums.dart
+29. mixin.dart
+30. mixin_selectively.dart
+31. static_variable.dart
+32. static_methods.dart
