@@ -8,7 +8,7 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "extension.dart"
+            "program": "enums.dart"
         }
     ]
 }

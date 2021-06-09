@@ -27,3 +27,4 @@
 25. covariant.dart
 26. no_such_method.dart
 27. extension.dart
+28. enums.dart
