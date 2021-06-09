@@ -8,7 +8,7 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "no_such_method.dart"
+            "program": "extension.dart"
         }
     ]
 }
