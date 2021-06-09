@@ -2,6 +2,7 @@
 // The implicit interface will contain all the members of the class and all the interfaces it implements
 // The implicit interface will not have the constructors
 // Private members will be available in the interface but not visible outside the class
+// A class can implement multiple interfaces
 class A {
   var  a1 = 100;  
   A({required this.a1});

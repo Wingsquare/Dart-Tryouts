@@ -8,7 +8,7 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "implicit_interface.dart"
+            "program": "covariant.dart"
         }
     ]
 }

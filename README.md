@@ -24,3 +24,4 @@
 22. getter_setter.dart
 23. abstract_method.dart
 24. implicit_interface.dart
+25. covariant.dart
