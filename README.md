@@ -25,3 +25,4 @@
 23. abstract_method.dart
 24. implicit_interface.dart
 25. covariant.dart
+26. no_such_method.dart
