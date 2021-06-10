@@ -8,7 +8,7 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "generic_restrict_type.dart"
+            "program": "generic_class.dart"
         }
     ]
 }

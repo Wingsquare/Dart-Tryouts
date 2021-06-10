@@ -34,3 +34,4 @@
 32. static_methods.dart
 33. generic_method.dart
 34. generic_restrict_type.dart
+35. generic_class.dart
