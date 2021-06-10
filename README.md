@@ -32,3 +32,4 @@
 30. mixin_selectively.dart
 31. static_variable.dart
 32. static_methods.dart
+33. generic_method.dart
