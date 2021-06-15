@@ -1,5 +1,5 @@
 /*
-  In order to import non-built in packages, use the scheme package.
+  In order to import non-built in libraries ( libraries provided by package manager pub ), use the scheme package.
   Or we can use system path for the package
 
 */
