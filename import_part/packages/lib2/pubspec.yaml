@@ -1,0 +1,8 @@
+name: lib2
+description: description of lib1
+version: 1.0.0
+
+environment:
+        sdk: '>=2.1.13 <=3.0.0'
+
+publish_to: none
