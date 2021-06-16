@@ -35,3 +35,5 @@
 33. generic_method.dart
 34. generic_restrict_type.dart
 35. generic_class.dart
+36. import_built_in_libraries.dart
+37. import_non_builtin_libraries.dart
