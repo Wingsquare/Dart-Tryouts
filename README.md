@@ -41,3 +41,4 @@
 39. console_app_manual
 40. console_app_with_external_libraries
 41. import_with_prefix
+42. import_part
