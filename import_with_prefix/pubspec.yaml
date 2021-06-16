@@ -1,0 +1,10 @@
+name: import_with_prefix
+description: A console app
+version: 1.0.0
+
+environment:
+        sdk: '>2.1.3 <3.0.0'
+
+dependencies:
+        lib1:
+                path: './packages/lib1'
