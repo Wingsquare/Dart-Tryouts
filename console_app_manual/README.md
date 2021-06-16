@@ -3,7 +3,7 @@
 3. vim pubspec.yaml
 	=> Add the given below fields:
 		name, description, version, environment
-	```
+	```dart
 	name: console_app_manual
 	description: A console app with out using any tools
 	version: 1.0.0
