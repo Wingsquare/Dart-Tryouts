@@ -1,0 +1,5 @@
+name: async_demo
+description: A demo app to explain asynchronous behaviour in dart language
+version: 1.0.0
+environment:
+  sdk: '>2.1.3 <3.0.0'
