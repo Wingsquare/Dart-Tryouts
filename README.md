@@ -43,3 +43,4 @@
 41. import_with_prefix
 42. import_part
 43. async_demo
+44. callable_classes
