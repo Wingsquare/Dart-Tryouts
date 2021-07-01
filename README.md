@@ -44,3 +44,4 @@
 42. import_part
 43. async_demo
 44. callable_classes
+45. typedef.dart
